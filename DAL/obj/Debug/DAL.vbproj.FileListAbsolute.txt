@@ -1,0 +1,25 @@
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\bin\Debug\DAL.dll
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\bin\Debug\DAL.pdb
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\bin\Debug\DAL.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\obj\Debug\DAL.Resources.resources
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\obj\Debug\DAL.dll
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\obj\Debug\DAL.xml
+c:\users\hung\documents\visual studio 2013\Projects\QuanLyNhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\DAL\bin\Debug\DTO.dll
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\DAL\bin\Debug\DTO.pdb
+C:\Users\hung\documents\visual studio 2013\Projects\Quanlynhasach\DAL\bin\Debug\DTO.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DAL.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DAL.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DAL.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DTO.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DTO.pdb
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\bin\Debug\DTO.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.Resources.resources
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.dll
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.xml
+E:\MyDocument\GiaoTrinh\HK5\Phuong phap mo hinh hoa_3_3_0\Bao cao do an mo hinh hoa\Quanlynhasach\DAL\obj\Debug\DAL.pdb
